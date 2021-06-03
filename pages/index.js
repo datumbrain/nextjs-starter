@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I am a Full-Stack Software Engineer with hands on experience in
-          ReacrJS, NodeJS, ExpressJS & Next.js
+          ReactJS, NodeJS, ExpressJS & Next.js
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
